@@ -1,0 +1,10 @@
+x=15
+y=12
+z=12
+print(x>y)
+print(x<z)
+print(y==z)
+print(x!=y)
+print(x>=z)
+print(z<=x)
+print(y<=z)
